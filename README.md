@@ -1,6 +1,6 @@
 ### Welcome!
 
-#### *Aspiring Data Analyst passionate about leveraging data for to solve interesting problems.*
+#### *Aspiring Data Analyst passionate about leveraging data to solve interesting problems.*
 
 - 🧠 Possessing knowledge in: `Python[Pandas]`, `SQL[BigQuery]`, `Tableau`, `Excel`
 - ⚙️ Current Project: Telecommunication Company Churn Analysis Dashboard
