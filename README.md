@@ -1,6 +1,6 @@
 ### Welcome!
 
-#### I am an Economics student interested in Data. 
+#### Economics student with an interest in Data Science. 
 
 - 🧠 Possessing knowledge in: `Python[Pandas]`, `SQL[BigQuery]`, `Tableau`, `Excel`
 - 💼 I'm interested in working as a Data Analyst to drive business insights. 
